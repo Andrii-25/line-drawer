@@ -1,0 +1,25 @@
+.canvas {
+  border: 1px solid red;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+.btn-wrapper {
+  display: flex;
+  justify-content: start;
+  padding-left: 50px;
+  padding-bottom: 10px;
+}
+
+.btn {
+  border-color: red;
+  border-radius: 3px;
+  color: red;
+  background: white;
+  height: 25px;
+}
+
+.btn:hover {
+  background: red;
+  color: white;
+}
